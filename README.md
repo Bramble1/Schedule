@@ -16,5 +16,7 @@ The program then writes the schedule to a textfile to be viewed at any time. And
 
 # Improvements
 1.Sorting and re-ordering of list feature
+
 2.Annotate and clean up some of the code
+
 3.Different Ratio altering options.
